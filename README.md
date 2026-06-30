@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-mehinbasic-76082026a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Tuzla%2C%20BiH-📍-lightgrey?style=flat" /></a>
+  <a href="mailto:emir96meh@gmail.com"><img src="https://img.shields.io/badge/Email-emir96meh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Tuzla%2C%20BiH-📍-lightgrey?style=flat" />
 </p>
 
 ---
@@ -42,6 +43,9 @@ I like backend work the most — APIs, databases, the "how does this actually ho
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-FF5733?style=flat-square)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+![QStash](https://img.shields.io/badge/QStash-00E9A3?style=flat-square)
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -62,4 +66,4 @@ Cisco "Introduction to Cybersecurity" cert, plus software development training t
 
 ---
 
-<p align="center"><i>Always open to interesting backend, full-stack, or DevOps-flavored work — feel free to reach out.</i></p>
+<p align="center"><i>Always open to interesting backend, full-stack, or DevOps-flavored work — feel free to reach out on <a href="https://www.linkedin.com/in/emir-mehinbasic-76082026a/">LinkedIn</a> or by <a href="mailto:emir96meh@gmail.com">email</a>.</i></p>
