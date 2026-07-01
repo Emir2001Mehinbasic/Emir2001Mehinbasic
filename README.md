@@ -47,6 +47,8 @@ I like backend work the most — APIs, databases, the "how does this actually ho
 ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
 ![QStash](https://img.shields.io/badge/QStash-00E9A3?style=flat-square)
 ![Winston](https://img.shields.io/badge/Winston-231F20?style=flat-square)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
