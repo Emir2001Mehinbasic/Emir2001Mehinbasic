@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Emir 👋</h1>
-<h3 align="center">Junior Software Engineer based in Gračanica (Tuzla), Bosnia and Herzegovina</h3>
+<h3 align="center">Software Engineer based in Gračanica (Tuzla), Bosnia and Herzegovina</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-mehinbasic-76082026a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
