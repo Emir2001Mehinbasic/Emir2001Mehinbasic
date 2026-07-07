@@ -66,7 +66,7 @@ I like backend work the most — APIs, databases, the "how does this actually ho
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
+
 
 ---
 
